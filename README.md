@@ -1,9 +1,3 @@
- ___ ____    ____                                  
-|_ _|  _ \  / ___|  ___ __ _ _ __  _ __   ___ _ __ 
- | || |_) | \___ \ / __/ _` | '_ \| '_ \ / _ \ '__|
- | ||  __/   ___) | (_| (_| | | | | | | |  __/ |   
-|___|_|     |____/ \___\__,_|_| |_|_| |_|\___|_|  
-
 This program scans the netowrk to which you are connected and provides you with their IP Address and MAC Address
 
 This will help you to obtain valuable information about you target
